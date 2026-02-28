@@ -6,12 +6,12 @@ Repositório do grupo de estudo **aMain()** da [Pontifícia Univesidade Católic
 
 Este repositório está organizado da seguinte forma:
 
-- **codigos**: Contém trechos de códigos em C++ de algoritmos úteis para a resolução de problemas, seja em maratonas ou durante os estudos
-- **problemas**: Contém diversos problemas de plataformas de programação competitiva organizados por tema e dificuldade
-- **.vimrc**: Arquivo de configuração para o editor VIM
-- **LICENSE**: Arquivo que estabelece os direitos de licença deste repositório
-- **README.md**: Corresponde a este arquivo
-- **template.cpp**: Arquivo base para iniciar a codificação de soluções em C++
+- [**codigos**](codigos): Contém trechos de códigos em C++ de algoritmos úteis para a resolução de problemas, seja em maratonas ou durante os estudos
+- [**problemas**](problemas): Contém diversos problemas de plataformas de programação competitiva organizados por tema e dificuldade
+- [**.vimrc**](.vimrc): Arquivo de configuração para o editor VIM
+- [**LICENSE**](LICENSE): Arquivo que estabelece os direitos de licença deste repositório
+- [**README.md**](README.md): Corresponde a este arquivo
+- [**template.cpp**](template.cpp): Arquivo base para iniciar a codificação de soluções em C++
 
 ## Sites e Referências
 
