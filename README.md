@@ -18,7 +18,7 @@ Este repositório está organizado da seguinte forma:
 Todo ano, ocorrem as seguintes maratonas de programação. Montem seus times e se preparem para elas!
 
 | Nome | Inscrições | Data | Link |
- |----------|:-------------:|:----:|------:|
+|----------|:--:|:-:|:--:|
 | Olimpíada Brasileira de Informática (OBI) | ? | ? | [Site](https://olimpiada.ic.unicamp.br/) |
 | Maratona SBC de Programação | ? | ? | [Site](https://maratona.sbc.org.br/) |
 | Maratona Mineira de Programação | ? | 29 e 30/05 | [Site](https://mineira.sbc.org.br/) |
