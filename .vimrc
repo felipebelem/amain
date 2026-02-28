@@ -35,13 +35,9 @@ set showmode
 
 set wildmenu
 set wildmode=list:longest
-set wildignore=*.docx,*.jpg,*.png,*.gif,*.pdf,*.a,*.lib,*.exe,*.xlsx,*.odf
 
 set ttyfast
 set lazyredraw
-
-set colorcolumn=80
-highlight ColorColumn ctermbg=0 guibg=lightgrey
 
 nnoremap j gj
 nnoremap k gk
@@ -73,4 +69,4 @@ nnoremap <leader>q :q<CR>
 nnoremap <leader>z <C-Z>
 vnoremap <leader>z <C-Z>
 
-nnoremap <C-a> ggvG$
+nnoremap <leader>a ggvG$

@@ -6,16 +6,39 @@ Repositório do grupo de estudo **aMain()** da [Pontifícia Univesidade Católic
 
 Este repositório está organizado da seguinte forma:
 
-- **codigos**: Contém trechos de códigos em C/C++, Python e Java de algoritmos úteis para a resolução de problemas, seja em maratonas ou durante os estudos
-- **problemas**: Contém diversos problemas de plataformas de programação competitiva organizados por tema e dificuldade. **ATENÇÃO!** Recomendamos que todos os problemas que você resolver, **submeta** em seu Github para movimentá-lo.
-- **templates**: Modelos e arquivos de configuração que podem ser utilizados como "ponto de partida" para a escrita de soluções de problemas
+- **codigos**: Contém trechos de códigos em C++ de algoritmos úteis para a resolução de problemas, seja em maratonas ou durante os estudos
+- **problemas**: Contém diversos problemas de plataformas de programação competitiva organizados por tema e dificuldade
+- **.vimrc**: Arquivo de configuração para o editor VIM
 - **LICENSE**: Arquivo que estabelece os direitos de licença deste repositório
 - **README.md**: Corresponde a este arquivo
-- **referencias.md**: Listagem de referências e sites úteis para estudar e praticar a resolução de problemas da programação competitiva.
+- **template.cpp**: Arquivo base para iniciar a codificação de soluções em C++
+
+## Sites e Referências
+
+Abaixo apresentamos alguns materiais online que podem auxiliar o seu estudo para aprimorar suas habilidades para a resolução de problemas.
+
+### Sites para Praticar
+
+- [AtCoder](https://atcoder.jp/)
+- [CodeChef](https://www.codechef.com/practice)
+- [Codeforces](https://codeforces.com/)
+- [CSAcademy](https://csacademy.com/contest/archive/)
+- [HackerRank](https://www.hackerrank.com/dashboard)
+- [Kattis](https://open.kattis.com/problems)
+- [LeetCode](https://leetcode.com/problemset/)
+- [SPOJ](https://www.spoj.com/)
+- [UVa](https://onlinejudge.org/)
+
+### Material de Estudo
+
+- [Halim & Halim - Competitive Programming 3](https://github.com/prasadgujar/CompetitiveProgramming/blob/master/book/Competitive%20Programming%203.pdf)
+- [Algorithms for Competitive Programming](https://cp-algorithms.com/index.html)
+- [Geeks4Geeks](https://www.geeksforgeeks.org/dsa/competitive-programming-a-complete-guide/)
+- [C/C++ Reference](https://cppreference.com/)
 
 ## Maratonas
 
-Todo ano, ocorrem as seguintes maratonas de programação. Montem seus times e se preparem para elas!
+Todo ano, ocorrem as seguintes maratonas de programação. Leiam o regulamento, montem seus times, e se preparem para elas!
 
 | Nome | Inscrições | Data | Link |
 |------|:----------:|:----:|:----:|
@@ -27,5 +50,4 @@ Todo ano, ocorrem as seguintes maratonas de programação. Montem seus times e s
 
 ## Contato
 
-Se quiser participar do grupo e/ou deseja mais informações, envie um email para:
-- [felipebelem@pucminas.br](mailto:felipebelem@pucminas.br)
+Se quiser participar do grupo, oferecer sugestões, e/ou desejar mais informações, envie um email para [felipebelem@pucminas.br](mailto:felipebelem@pucminas.br)
