@@ -1,6 +1,6 @@
 # aMain ()
 
-Repositório do grupo de estudo **aMain()** da [Pontifícia Univesidade Católica de Minas Gerais (PUC Minas)](https://www.pucminas.br/destaques/Paginas/default.aspx) sobre Programação Competitiva. Este repositório também é utilizado para a realização de oficinas de Programação Competitiva da mesma instituição.
+Repositório do grupo de estudo **aMain()** da [Pontifícia Universidade Católica de Minas Gerais (PUC Minas)](https://www.pucminas.br/destaques/Paginas/default.aspx) sobre Programação Competitiva. Este repositório também é utilizado para a realização de oficinas de Programação Competitiva da mesma instituição.
 
 ## Conteúdo
 
@@ -31,9 +31,10 @@ Abaixo apresentamos alguns materiais online que podem auxiliar o seu estudo para
 
 ### Material de Estudo
 
-- [Halim & Halim - Competitive Programming 3](https://github.com/prasadgujar/CompetitiveProgramming/blob/master/book/Competitive%20Programming%203.pdf)
+- [S.Halim e F.Halim - Competitive Programming 3](https://github.com/prasadgujar/CompetitiveProgramming/blob/master/book/Competitive%20Programming%203.pdf)
 - [Algorithms for Competitive Programming](https://cp-algorithms.com/index.html)
-- [Geeks4Geeks](https://www.geeksforgeeks.org/dsa/competitive-programming-a-complete-guide/)
+- [Geeks4Geeks - Competitive Programming: A Complete Guide](https://www.geeksforgeeks.org/dsa/competitive-programming-a-complete-guide/)
+- [Geeks4Geeks - Knowing the Complexity in Competitive Programming](http://geeksforgeeks.org/dsa/knowing-the-complexity-in-competitive-programming/)
 - [C/C++ Reference](https://cppreference.com/)
 
 ## Maratonas

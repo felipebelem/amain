@@ -20,13 +20,14 @@
 | Codeforces | Divisibility Problem | [Submissão](https://codeforces.com/problemset/problem/1328/A) |
 | Codeforces | Domino Piling | [Submissão](https://codeforces.com/problemset/problem/50/A) |
 | Codeforces | Elephant | [Submissão](https://codeforces.com/problemset/problem/617/A) |
+| Codeforces | Even-Odd XOR | [Submissão](https://codeforces.com/problemset/problem/1722/G) |
 | Codeforces | Find Minimum Operations | [Submissão](https://codeforces.com/problemset/problem/2020/A) |
 | Codeforces | Forbidden Integer | [Submissão](https://codeforces.com/problemset/problem/1845/A) |
 | Codeforces | Game With Integers | [Submissão](https://codeforces.com/problemset/problem/1899/A) |
-| Codeforces | Game with Integers | [Submissão](https://codeforces.com/problemset/problem/1899/A) |
 | Codeforces | Hard Problem | [Submissão](https://codeforces.com/problemset/problem/2044/C) |
 | Codeforces | I'm Bored with Life | [Submissão](https://codeforces.com/problemset/problem/822/A) |
 | Codeforces | Insomnia Cure | [Submissão](https://codeforces.com/problemset/problem/148/A) |
+| Codeforces | Lovely Palindromes | [Submissão](https://codeforces.com/problemset/problem/688/B) |
 | Codeforces | Maximize? | [Submissão](https://codeforces.com/problemset/problem/1968/A) |
 | Codeforces | Maximum Multiple Sum | [Submissão](https://codeforces.com/problemset/problem/1985/B) |
 | Codeforces | Ordinary Numbers | [Submissão](https://codeforces.com/problemset/problem/1520/B) |
@@ -49,25 +50,24 @@
 | LeetCode | Power of Two | [Submissão](https://leetcode.com/problems/power-of-two) |
 | LeetCode | Valid Perfect Square | [Submissão](https://leetcode.com/problems/valid-perfect-square) |
 
-
-
 ## Médios
 | Plataforma | Nome | Link |
 | :--------: | :--: | :--: |
 | AtCoder | Simple Math 4 | [Submissão](https://atcoder.jp/contests/arc176/tasks/arc176_b?lang=en) |
 | AtCoder | Simple Math | [Submissão](https://atcoder.jp/contests/arc107/tasks/arc107_a?lang=en) |
+| Codeforces | Boredom | [Submissão](https://codeforces.com/problemset/problem/455/A) |
 | Codeforces | Cut The Array | [Submissão](https://codeforces.com/problemset/problem/2144/A) |
+| Codeforces | Different Divisors | [Submissão](https://codeforces.com/problemset/problem/1474/B) |
 | Codeforces | Dora's Set | [Submissão](https://codeforces.com/problemset/problem/2007/A) |
 | Codeforces | Gregor and Criptography | [Submissão](https://codeforces.com/problemset/problem/1549/A) |
 | Codeforces | Kamika and the Sheep | [Submissão](https://codeforces.com/problemset/problem/2092/A) |
 | Codeforces | LCM Problem | [Submissão](https://codeforces.com/problemset/problem/1389/A) |
 | Codeforces | Make it Equal | [Submissão](https://codeforces.com/problemset/problem/2131/C) |
 | Codeforces | Minimal Coprime | [Submissão](https://codeforces.com/problemset/problem/2063/A) |
+| Codeforces | Move Brackets | [Submissão](https://codeforces.com/problemset/problem/1374/C) |
 | Codeforces | Perfectly Imperfect Array | [Submissão](https://codeforces.com/problemset/problem/1514/A) |
 | Codeforces | Potion-making | [Submissão](https://codeforces.com/problemset/problem/1525/A) |
 | Codeforces | T-Primes | [Submissão](https://codeforces.com/problemset/problem/230/B) |
-
-
 
 ## Difíceis
 | Plataforma | Nome | Link |
