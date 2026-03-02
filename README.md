@@ -1,5 +1,5 @@
 # aMain ()
-
+![logotipo do grupo amain, com duas mãos erguendo uma estrela](logo.jpeg "aMain")
 Repositório do grupo de estudo **aMain()** da [Pontifícia Universidade Católica de Minas Gerais (PUC Minas)](https://www.pucminas.br/destaques/Paginas/default.aspx) sobre Programação Competitiva. Este repositório também é utilizado para a realização de oficinas de Programação Competitiva da mesma instituição.
 
 ## Conteúdo
@@ -12,6 +12,7 @@ Este repositório está organizado da seguinte forma:
 - [**LICENSE**](LICENSE): Arquivo que estabelece os direitos de licença deste repositório
 - [**README.md**](README.md): Corresponde a este arquivo
 - [**template.cpp**](template.cpp): Arquivo base para iniciar a codificação de soluções em C++
+- [**logo.jpeg**](logo.jpeg): Logotipo do grupo de estudo 
 
 ## Sites e Referências
 
