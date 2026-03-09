@@ -32,11 +32,12 @@ Abaixo apresentamos alguns materiais online que podem auxiliar o seu estudo para
 
 ### Material de Estudo
 
-- [S.Halim e F.Halim - Competitive Programming 3](https://github.com/prasadgujar/CompetitiveProgramming/blob/master/book/Competitive%20Programming%203.pdf)
 - [Algorithms for Competitive Programming](https://cp-algorithms.com/index.html)
+- [Antii Laaksonen](https://cses.fi/book/book.pdf)
+- [C/C++ Reference](https://cppreference.com/)
 - [Geeks4Geeks - Competitive Programming: A Complete Guide](https://www.geeksforgeeks.org/dsa/competitive-programming-a-complete-guide/)
 - [Geeks4Geeks - Knowing the Complexity in Competitive Programming](http://geeksforgeeks.org/dsa/knowing-the-complexity-in-competitive-programming/)
-- [C/C++ Reference](https://cppreference.com/)
+- [S.Halim e F.Halim - Competitive Programming 3](https://github.com/prasadgujar/CompetitiveProgramming/blob/master/book/Competitive%20Programming%203.pdf)
 
 ## Maratonas
 

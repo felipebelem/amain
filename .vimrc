@@ -8,8 +8,8 @@ set cursorline
 set number
 set mouse=a
 
-set shiftwidth=2
-set tabstop=2
+set shiftwidth=4
+set tabstop=4
 
 set matchpairs+=<:>
 set backspace=indent,eol,start
