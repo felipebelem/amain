@@ -46,10 +46,10 @@ Todo ano, ocorrem as seguintes maratonas de programação. Leiam o regulamento, 
 | Nome | Inscrições | Data | Link |
 |------|:----------:|:----:|:----:|
 | Olimpíada Brasileira de Informática (OBI) | ? | ? | [Site](https://olimpiada.ic.unicamp.br/) |
-| Maratona SBC de Programação | ? | ? | [Site](https://maratona.sbc.org.br/) |
-| Maratona Mineira de Programação | ? | 29 e 30/05 | [Site](https://mineira.sbc.org.br/) |
+| Maratona SBC de Programação | xx/06 a 10/08 | 1° Fase -> 29/08 Final -> 5 a 08/11 | [Site](https://maratona.sbc.org.br/) |
+| Maratona Mineira de Programação | 02/04 a 30/04 | 29 e 30/05 | [Site](https://mineira.sbc.org.br/) |
 | Maratona Minas de Minas (M^3) | ? | 03/10 | [Instagram](https://www.instagram.com/maratonaminasdeminas/) |
-| Maratona Feminina de Programação (MFP) | ? | ? | [Instagram](https://www.instagram.com/mfp.sbc/) |
+| Maratona Feminina de Programação (MFP) | ? | 1° Fase -> 09/05 Final -> de 31/07 a 02/08 | [Instagram](https://www.instagram.com/mfp.sbc/) |
 
 ## Contato
 
