@@ -9,6 +9,9 @@ Este diretório contém diversos problemas de plataformas de programação compe
 - [Strings](strings.md)
 - [Tipos Abstratos de Dados](tads.md)
 
+Além disso, também contém problemas de maratonas de programação (brasileiras e internacionais) passadas:
+- [Maratona Mineira de Programação](mineira.md)
+
 É importante que **ANTES** de submeter um problema, você verifique se o número de testes **NO PIOR CASO** não vá ultrapassar os limites de velocidade e memória. Abaixo segue uma recomendação considerando um problema que se pede 1 segundo para a resolução, sendo executado em uma máquina que realiza 10^8 operações por segundo:
 
 | Número de Testes | Complexidade |
