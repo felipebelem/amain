@@ -2,20 +2,20 @@
 
 ## IX Edição
 
-- Codeforces(A): Descriptografando ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/A) )
-- Codeforces(B): Festa Laser ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/B) )
-- Codeforces(C): Caindo na Estrada ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/C) )
-- Codeforces(D): Crise da Chuva ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/D) )
-- Codeforces(E): Drawdown ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/E) )
-- Codeforces(F): Caindo de Paraquedas ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/F) )
-- Codeforces(G): Bário ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/G) )
-- Codeforces(H): Bagunça da Madalena ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/H) )
-- Codeforces(I): Bloomhaven ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/I) )
-- Codeforces(J): Um Dia no Museu ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/J) )
-- Codeforces(K): Bacon e o Tesouro ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/K) )
-- Codeforces(L): Se Liga na Cifra ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/L) )
-- Codeforces(M): Jogo do Gato ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/M) )
-- Codeforces(N): Maratonando ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/N) )
+- Codeforces(A): Descriptografando ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/A))
+- Codeforces(B): Festa Laser ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/B))
+- Codeforces(C): Caindo na Estrada ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/C))
+- Codeforces(D): Crise da Chuva ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/D))
+- Codeforces(E): Drawdown ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/E))
+- Codeforces(F): Caindo de Paraquedas ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/F))
+- Codeforces(G): Bário ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/G))
+- Codeforces(H): Bagunça da Madalena ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/H))
+- Codeforces(I): Bloomhaven ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/I))
+- Codeforces(J): Um Dia no Museu ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/J))
+- Codeforces(K): Bacon e o Tesouro ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/K))
+- Codeforces(L): Se Liga na Cifra ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/L))
+- Codeforces(M): Jogo do Gato ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/M))
+- Codeforces(N): Maratonando ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/N))
 
 ## X Edição
 
