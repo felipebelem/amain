@@ -1,5 +1,15 @@
 # Geometria Analítica e Álgebra Linear
 
+## Iniciante
+- AtCoder (abc441_a): Black Square ([Submissão](https://atcoder.jp/contests/abc441/tasks/abc441_a))
+- AtCoder (abc441_a): Black Square ([Submissão](https://atcoder.jp/contests/abc441/tasks/abc441_a))
+
+## Fácil
+
+## Médio
+
+## Difícil
+
 ## Fáceis
 
 | Plataforma | Nome | Link |

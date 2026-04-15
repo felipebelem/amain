@@ -1,5 +1,15 @@
 # Strings
 
+## Iniciante
+- AtCoder (abc443_a): Append s ([Submissão](https://atcoder.jp/contests/abc443/tasks/abc443_a))
+- AtCoder (abc442_a): Count . ([Submissão](https://atcoder.jp/contests/abc442/tasks/abc442_a))
+
+## Fácil
+
+## Médio
+
+## Difícil
+
 ## Fáceis
 
 | Plataforma | Nome | Link |

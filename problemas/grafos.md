@@ -1,20 +1,10 @@
 # Teoria dos Grafos
 
-## Fáceis
+## Iniciante
+- AtCoder (abc439_a): 2^n - 2* n ([Submissão](https://atcoder.jp/contests/abc439/tasks/abc439_a))
 
-| Plataforma | Nome | Link |
-| :--------: | :--: | :--: |
-| LeetCode | 1791 - Find Center of Star Graph | [Submissão](https://leetcode.com/problems/find-center-of-star-graph/) |
-| LeetCode | 997 - Find the Town Judge | [Submissão](https://leetcode.com/problems/find-the-town-judge/description/) |
+## Fácil
 
-## Médios
-| Plataforma | Nome | Link |
-| :--------: | :--: | :--: |
-| LeetCode | 1971 - Find if Path Exists in Graph | [Submissão](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) |
-| LeetCode | 42 - Trapping Rain Water | [Submissão](https://leetcode.com/problems/trapping-rain-water/description/) |
-| LeetCode | 407 - Trapping Rain Water II | [Submissão](https://leetcode.com/problems/trapping-rain-water-ii/description/) |
+## Médio
 
-
-## Difíceis
-| Plataforma | Nome | Link |
-| :--------: | :--: | :--: |
+## Difícil
