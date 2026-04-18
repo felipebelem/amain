@@ -4,17 +4,17 @@ using namespace std;
 
 #define MAX(x,y) ((x) > (y) ? (x) : (y))
 #define MIN(x,y) ((x) < (y) ? (x) : (y))
-#define ROUND(x) ((long long)((x) + 0.5))
 #define PI (acos(-1.0))
 #define EPS (1e-9)
-#define LOG(a,b) (1.0*log(a)/log(b))
 #define FAST_IO() ios_base::sync_with_stdio(0); cin.tie(NULL); cout.tie(NULL)
+#define SET_FLT_PRECISION(p) cout.setf(ios::fixed); cout.precision((p))
 
-void solution(void) {
-
+void solution() {
+  
 }
 
 int main(void) {
-    FAST_IO();
-
+  FAST_IO(); SET_FLT_PRECISION(20);
+  
+  solution();
 }
