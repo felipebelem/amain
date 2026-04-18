@@ -1,8 +1,8 @@
 # Strings
 
 ## Iniciante
-- AtCoder (abc442_a): Count . ([Submissão](https://atcoder.jp/contests/abc442/tasks/abc442_a))
-- AtCoder (abc443_a): Append s ([Submissão](https://atcoder.jp/contests/abc443/tasks/abc443_a))
+- AtCoder(abc442_a): Count . ([Submissão](https://atcoder.jp/contests/abc442/tasks/abc442_a))
+- AtCoder(abc443_a): Append s ([Submissão](https://atcoder.jp/contests/abc443/tasks/abc443_a))
 - Codeforces(112A): Petya and Strings ([Submissão](https://codeforces.com/problemset/problem/112/A))
 - Codeforces(118A): String Task ([Submissão](https://codeforces.com/problemset/problem/118/A))
 - Codeforces(1790A): Polycarp and the Day of Pi ([Submissão](https://codeforces.com/problemset/problem/1790/A))
@@ -27,12 +27,12 @@
 - Codeforces(2132A): Homework ([Submissão](https://codeforces.com/problemset/problem/2132/A))
 - Codeforces(236A): Boy or Girl ([Submissão](https://codeforces.com/problemset/problem/236/A))
 - Codeforces(339A): Helpful Maths ([Submissão](https://codeforces.com/problemset/problem/339/A))
+- Codeforces(443A): Anton and Letters ([Submissão](https://codeforces.com/problemset/problem/443/A))
 - Codeforces(520A): Pangram ([Submissão](https://codeforces.com/problemset/problem/520/A))
 - Codeforces(550A): Two Substrings ([Submissão](https://codeforces.com/problemset/problem/550/A))
 - Codeforces(58A): Chat Room ([Submissão](https://codeforces.com/problemset/problem/58/A))
 - Codeforces(798A): Mike and Palindrome ([Submissão](https://codeforces.com/problemset/problem/798/A))
 - Codeforces(978B): File Name ([Submissão](https://codeforces.com/problemset/problem/978/B))
-
 
 ## Médio
 - Codeforces(1155A): Reverse a Substring ([Submissão](https://codeforces.com/problemset/problem/1155/A))

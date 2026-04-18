@@ -1,8 +1,9 @@
 # Geometria Analítica e Álgebra Linear
 
 ## Iniciante
-- AtCoder (abc441_a): Black Square ([Submissão](https://atcoder.jp/contests/abc441/tasks/abc441_a))
+- AtCoder(abc441_a): Black Square ([Submissão](https://atcoder.jp/contests/abc441/tasks/abc441_a))
 - Codeforces(2074A): Draw a Square ([Submissão](https://codeforces.com/problemset/problem/2074/A))
+- Codeforces(263A): Beautiful Matrix ([Submissão](https://codeforces.com/problemset/problem/263/A))
 
 ## Fácil
 - AtCoder(abc259_b): Counterclockwise Rotation ([Submissão](https://atcoder.jp/contests/abc259/tasks/abc259_b))
