@@ -41,6 +41,7 @@
 
 ## Difícil
 - AtCoder(abc223_e): Placing Rectangle ([Submissão](https://atcoder.jp/contests/abc223/tasks/abc223_e))
+- AtCoder(abc439_e): Kite ([Submissão](https://atcoder.jp/contests/abc439/tasks/abc439_e))
 - AtCoder(icpc2013autumn_h): Venn Diagram ([Submissão](https://atcoder.jp/contests/jag2013autumn/tasks/icpc2013autumn_h))
 - Codeforces(1C): Ancient Berland Circus ([Submissão](https://codeforces.com/problemset/problem/1/C))
 

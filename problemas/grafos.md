@@ -7,6 +7,8 @@
 
 
 ## Fácil
+- AtCoder(abc436_d): Teleport Maze ([Submissão](https://atcoder.jp/contests/abc436/tasks/abc436_d))
+- AtCoder(abc435_d): Reachability Query 2 ([Submissão](https://atcoder.jp/contests/abc436/tasks/abc435_d))
 - LeetCode(1311): Get Watched Videos by Your Friends ([Submissão](https://leetcode.com/problems/get-watched-videos-by-your-friends/description/))
 - LeetCode(1971): Find if Path Exists in Graph ([Submissão](https://leetcode.com/problems/find-if-path-exists-in-graph/description/))
 - LeetCode(547): Provinces ([Submissão](https://leetcode.com/problems/number-of-provinces/description/))

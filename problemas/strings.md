@@ -1,6 +1,7 @@
 # Strings
 
 ## Iniciante
+- AtCoder(abc436_a): o-padding ([Submissão](https://atcoder.jp/contests/abc436/tasks/abc436_a))
 - AtCoder(abc442_a): Count . ([Submissão](https://atcoder.jp/contests/abc442/tasks/abc442_a))
 - AtCoder(abc443_a): Append s ([Submissão](https://atcoder.jp/contests/abc443/tasks/abc443_a))
 - Codeforces(112A): Petya and Strings ([Submissão](https://codeforces.com/problemset/problem/112/A))
@@ -35,6 +36,7 @@
 - Codeforces(978B): File Name ([Submissão](https://codeforces.com/problemset/problem/978/B))
 
 ## Médio
+- AtCoder(abc438_b): Substring 2 ([Submissão](https://atcoder.jp/contests/abc438/editorial/14953))
 - Codeforces(1155A): Reverse a Substring ([Submissão](https://codeforces.com/problemset/problem/1155/A))
 - Codeforces(1301A): Three Strings ([Submissão](http://codeforces.com/problemset/problem/1301/A))
 - Codeforces(1389C): Good String ([Submissão](https://codeforces.com/problemset/problem/1389/C))

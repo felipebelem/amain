@@ -1,6 +1,7 @@
 # Matemática Discreta
 
 ## Iniciante
+- AtCoder(abc438_a): First Contest of the Year ([Submissão](https://atcoder.jp/contests/abc438/tasks/abc438_a))
 - AtCoder(abc439_a): 2^n - 2* n ([Submissão](https://atcoder.jp/contests/abc439/tasks/abc439_a))
 - AtCoder(abc440_a): Octave ([Submissão](https://atcoder.jp/contests/abc440/tasks/abc440_a))
 - AtCoder(abc443_b): Setsubun ([Submissão](https://atcoder.jp/contests/abc443/tasks/abc443_b))
@@ -25,9 +26,14 @@
 - LeetCode(power-of-two): Power of Two ([Submissão](https://leetcode.com/problems/power-of-two))
 
 
-
-
 ## Fácil
+- AtCoder(abc435_b): No-Divisible Range ([Submissão](https://atcoder.jp/contests/abc435/tasks/abc435_b))
+- AtCoder(abc435_c): Domino ([Submissão](https://atcoder.jp/contests/abc435/tasks/abc435_c))
+- AtCoder(abc436_b): Magic Square ([Submissão](https://atcoder.jp/contests/abc436/tasks/abc436_b))
+- AtCoder(abc436_c): 2x2 Placing ([Submissão](https://atcoder.jp/contests/abc436/tasks/abc436_c))
+- AtCoder(abc437_b): Tombola ([Submissão](https://atcoder.jp/contests/abc437/tasks/abc437_b))
+- AtCoder(abc437_c): Reindeer and Sleigh 2 ([Submissão](https://atcoder.jp/contests/abc437/tasks/abc437_c))
+- AtCoder(abc439_a): 2026 ([Submissão](https://atcoder.jp/contests/abc439/tasks/abc439_c))
 - AtCoder(abc444_b): Digit Sum ([Submissão](https://atcoder.jp/contests/abc444/tasks/abc444_b))
 - Codeforces(116A): Tram ([Submissão](https://codeforces.com/problemset/problem/116/A))
 - Codeforces(1335A): Candies and Two Sisters ([Submissão](https://codeforces.com/problemset/problem/1335/A))
@@ -73,6 +79,7 @@
 
 
 ## Médio
+- AtCoder(abc437_d): Sum of Differences ([Submissão](https://atcoder.jp/contests/abc437/tasks/abc437_d))
 - AtCoder(abc439_b): Happy Number ([Submissão](https://atcoder.jp/contests/abc439/tasks/abc439_b))
 - AtCoder(arc107_a): Simple Math ([Submissão](https://atcoder.jp/contests/arc107/tasks/arc107_a))
 - AtCoder(arc176_b): Simple Math 4 ([Submissão](https://atcoder.jp/contests/arc176/tasks/arc176_b))
@@ -95,3 +102,6 @@
 - Codeforces(455A): Boredom ([Submissão](https://codeforces.com/problemset/problem/455/A))
 
 ## Difícil
+- AtCoder(abc438_d): Tail of Snake ([Submissão](https://atcoder.jp/contests/abc438/tasks/abc438_d))
+
+
