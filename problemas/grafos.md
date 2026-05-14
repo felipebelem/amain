@@ -7,8 +7,11 @@
 
 
 ## Fácil
-- AtCoder(abc436_d): Teleport Maze ([Submissão](https://atcoder.jp/contests/abc436/tasks/abc436_d))
+- AtCoder(abc399_c): Make it Forest ([Submissão](https://atcoder.jp/contests/abc399/tasks/abc399_c))
 - AtCoder(abc435_d): Reachability Query 2 ([Submissão](https://atcoder.jp/contests/abc436/tasks/abc435_d))
+- AtCoder(abc436_d): Teleport Maze ([Submissão](https://atcoder.jp/contests/abc436/tasks/abc436_d))
+- AtCoder(abc454_c): Straw Millionaire ([Submissão](https://atcoder.jp/contests/abc454/tasks/abc454_c))
+- AtCoder(abc400_d): Takahashi The Wall Breaker ([Submissão](https://atcoder.jp/contests/abc400/tasks/abc400_d))
 - LeetCode(1311): Get Watched Videos by Your Friends ([Submissão](https://leetcode.com/problems/get-watched-videos-by-your-friends/description/))
 - LeetCode(1971): Find if Path Exists in Graph ([Submissão](https://leetcode.com/problems/find-if-path-exists-in-graph/description/))
 - LeetCode(547): Provinces ([Submissão](https://leetcode.com/problems/number-of-provinces/description/))
@@ -18,6 +21,10 @@
 
 
 ## Médio
+- AtCoder(abc397_e): Path Decomposition Tree ([Submissão](https://atcoder.jp/contests/abc397/tasks/abc397_e))
+- AtCoder(abc397_g): Maximize Distance ([Submissão](https://atcoder.jp/contests/abc397/tasks/abc397_g))
+- AtCoder(abc399_e): Replace ([Submissão](https://atcoder.jp/contests/abc399/tasks/abc399_e))
+- AtCoder(abc398_g): Not Only Tree Game ([Submissão](https://atcoder.jp/contests/abc398/tasks/abc398_g))
 - LeetCode(1042): Flower Planting With No Adjacent ([Submissão](https://leetcode.com/problems/flower-planting-with-no-adjacent/description/))
 - LeetCode(1129): Shortest Path with Alternating Colors ([Submissão](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/))
 - LeetCode(1319): Number of Operations to Make Network Connected ([Submissão](https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/))

@@ -23,10 +23,15 @@
 - Codeforces(69A): Young Physicist ([Submissão](https://codeforces.com/problemset/problem/69/A))
 - Codeforces(977A): Wrong Subtraction ([Submissão](https://codeforces.com/problemset/problem/977/A))
 - Codeforces(996A): Hit the Lottery ([Submissão](https://codeforces.com/problemset/problem/996/A))
-- LeetCode(power-of-two): Power of Two ([Submissão](https://leetcode.com/problems/power-of-two))
+- LeetCode(231): Power of Two ([Submissão](https://leetcode.com/problems/power-of-two))
 
 
 ## Fácil
+- AtCoder(abc398_c): Uniqueness ([Submissão](https://atcoder.jp/contests/abc398/tasks/abc398_c))
+- AtCoder(abc399_a): Hamming Distance ([Submissão](https://atcoder.jp/contests/abc399/tasks/abc399_a))
+- AtCoder(abc399_b): Ranking with Ties ([Submissão](https://atcoder.jp/contests/abc399/tasks/abc399_b))
+- AtCoder(abc400_b): Sum of Geometric Series ([Submissão](https://atcoder.jp/contests/abc400/tasks/abc400_b))
+- AtCoder(abc400_c): 2^ab^2 ([Submissão](https://atcoder.jp/contests/abc400/tasks/abc400_c))
 - AtCoder(abc435_b): No-Divisible Range ([Submissão](https://atcoder.jp/contests/abc435/tasks/abc435_b))
 - AtCoder(abc435_c): Domino ([Submissão](https://atcoder.jp/contests/abc435/tasks/abc435_c))
 - AtCoder(abc436_b): Magic Square ([Submissão](https://atcoder.jp/contests/abc436/tasks/abc436_b))
@@ -35,6 +40,7 @@
 - AtCoder(abc437_c): Reindeer and Sleigh 2 ([Submissão](https://atcoder.jp/contests/abc437/tasks/abc437_c))
 - AtCoder(abc439_a): 2026 ([Submissão](https://atcoder.jp/contests/abc439/tasks/abc439_c))
 - AtCoder(abc444_b): Digit Sum ([Submissão](https://atcoder.jp/contests/abc444/tasks/abc444_b))
+- AtCoder(abc454_b): Mapping ([Submissão](https://atcoder.jp/contests/abc444/tasks/abc454_b))
 - Codeforces(116A): Tram ([Submissão](https://codeforces.com/problemset/problem/116/A))
 - Codeforces(1335A): Candies and Two Sisters ([Submissão](https://codeforces.com/problemset/problem/1335/A))
 - Codeforces(136A): Presents ([Submissão](https://codeforces.com/problemset/problem/136/A))
@@ -69,18 +75,23 @@
 - Codeforces(749A): Bachgold Problem ([Submissão](https://codeforces.com/problemset/problem/749/A))
 - Codeforces(791A): Bear and Big Brother ([Submissão](https://codeforces.com/problemset/problem/791/A))
 - Codeforces(822A): I'm Bored with Life ([Submissão](https://codeforces.com/problemset/problem/822/A))
-- LeetCode(convert-a-number-to-hexadecimal): Convert a Number to Hexadecimal ([Submissão](https://leetcode.com/problems/convert-a-number-to-hexadecimal))
-- LeetCode(divisor-game): Divisor Game ([Submissão](https://leetcode.com/problems/divisor-game/))
-- LeetCode(missing-number): Missing Number ([Submissão](https://leetcode.com/problems/missing-number))
-- LeetCode(nim-game): Nim Game ([Submissão](https://leetcode.com/problems/nim-game/))
-- LeetCode(palindrome-number): Palindrome Number ([Submissão](https://leetcode.com/problems/palindrome-number/))
-- LeetCode(perfect-number): Perfect Number ([Submissão](https://leetcode.com/problems/perfect-number/))
-- LeetCode(valid-perfect-square): Valid Perfect Square ([Submissão](https://leetcode.com/problems/valid-perfect-square))
+- LeetCode(9): Palindrome Number ([Submissão](https://leetcode.com/problems/palindrome-number/))
+- LeetCode(268): Missing Number ([Submissão](https://leetcode.com/problems/missing-number))
+- LeetCode(292): Nim Game ([Submissão](https://leetcode.com/problems/nim-game/))
+- LeetCode(367): Valid Perfect Square ([Submissão](https://leetcode.com/problems/valid-perfect-square))
+- LeetCode(405): Convert a Number to Hexadecimal ([Submissão](https://leetcode.com/problems/convert-a-number-to-hexadecimal))
+- LeetCode(507): Perfect Number ([Submissão](https://leetcode.com/problems/perfect-number/))
+- LeetCode(1025): Divisor Game ([Submissão](https://leetcode.com/problems/divisor-game/))
 
 
 ## Médio
+- AtCoder(abc397_c): Variety Split Easy ([Submissão](https://atcoder.jp/contests/abc397/tasks/abc397_c))
+- AtCoder(abc397_d): Cubes ([Submissão](https://atcoder.jp/contests/abc397/tasks/abc397_d))
+- AtCoder(abc400_e): Ringo's Favorite Numbers 3 ([Submissão](https://atcoder.jp/contests/abc400/tasks/abc400_e))
 - AtCoder(abc437_d): Sum of Differences ([Submissão](https://atcoder.jp/contests/abc437/tasks/abc437_d))
 - AtCoder(abc439_b): Happy Number ([Submissão](https://atcoder.jp/contests/abc439/tasks/abc439_b))
+- AtCoder(abc455_c): Vanish ([Submissão](https://atcoder.jp/contests/abc455/tasks/abc455_c))
+- AtCoder(abc455_e): Unbalanced ABC Substrings ([Submissão](https://atcoder.jp/contests/abc455/tasks/abc455_e))
 - AtCoder(arc107_a): Simple Math ([Submissão](https://atcoder.jp/contests/arc107/tasks/arc107_a))
 - AtCoder(arc176_b): Simple Math 4 ([Submissão](https://atcoder.jp/contests/arc176/tasks/arc176_b))
 - Codeforces(1374C): Move Brackets ([Submissão](https://codeforces.com/problemset/problem/1374/C))
@@ -102,6 +113,9 @@
 - Codeforces(455A): Boredom ([Submissão](https://codeforces.com/problemset/problem/455/A))
 
 ## Difícil
+- AtCoder(abc397_f): Variety Split Hard ([Submissão](https://atcoder.jp/contests/abc397/tasks/abc397_f))
 - AtCoder(abc438_d): Tail of Snake ([Submissão](https://atcoder.jp/contests/abc438/tasks/abc438_d))
+- AtCoder(abc454_f): Make It Palindrome 2 ([Submissão](https://atcoder.jp/contests/abc454/tasks/abc454_f))
+- AtCoder(abc399_f): Range Power Sum ([Submissão](https://atcoder.jp/contests/abc399/tasks/abc399_f))
 
 

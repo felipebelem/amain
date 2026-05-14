@@ -18,6 +18,9 @@
 - Codeforces(734A): Anton and Danik ([Submissão](https://codeforces.com/problemset/problem/734/A))
 
 ## Fácil
+- AtCoder(abc397_b): Ticket Gate Log ([Submissão](https://atcoder.jp/contests/abc397/tasks/abc397_b))
+- AtCoder(abc398_a): Doors in the Center ([Submissão](https://atcoder.jp/contests/abc398/tasks/abc398_a))
+- AtCoder(abc398_f): ABCBA ([Submissão](https://atcoder.jp/contests/abc398/tasks/abc398_f))
 - Codeforces(1027A): Palindromic Twist ([Submissão](https://codeforces.com/problemset/problem/1027/A))
 - Codeforces(1251A): Broken Keyboard ([Submissão](https://codeforces.com/problemset/problem/1251/A))
 - Codeforces(141A): Amusing Joke ([Submissão](https://codeforces.com/problemset/problem/141/A))

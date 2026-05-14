@@ -1,12 +1,15 @@
 # Geometria Analítica e Álgebra Linear
 
 ## Iniciante
+- AtCoder(abc400_a): ABC400 Party ([Submissão](https://atcoder.jp/contests/abc400/tasks/abc400_a))
 - AtCoder(abc441_a): Black Square ([Submissão](https://atcoder.jp/contests/abc441/tasks/abc441_a))
 - Codeforces(2074A): Draw a Square ([Submissão](https://codeforces.com/problemset/problem/2074/A))
 - Codeforces(263A): Beautiful Matrix ([Submissão](https://codeforces.com/problemset/problem/263/A))
 
 ## Fácil
 - AtCoder(abc259_b): Counterclockwise Rotation ([Submissão](https://atcoder.jp/contests/abc259/tasks/abc259_b))
+- AtCoder(abc398_d): Bonfire ([Submissão](https://atcoder.jp/contests/abc398/tasks/abc398_d))
+- AtCoder(abc455_b): Spiral Galaxy ([Submissão](https://atcoder.jp/contests/abc455/tasks/abc455_b))
 - Codeforces(1064A): Make a Triangle! ([Submissão](https://codeforces.com/problemset/problem/1064/A))
 - Codeforces(1182A): Filling Shapes ([Submissão](https://codeforces.com/problemset/problem/1182/A))
 - Codeforces(1369A): FashionabLee ([Submissão](https://codeforces.com/problemset/problem/1369/A))
@@ -22,6 +25,8 @@
 - HackerRank(points-on-a-line): Points on a Line ([Submissão](https://www.hackerrank.com/contests/101hack38/challenges/points-on-a-line))
 
 ## Médio
+- AtCoder(abc400_f): Happy Birthday! 3 ([Submissão](https://atcoder.jp/contests/abc400/tasks/abc400_f))
+- AtCoder(abc454_e): LRUD Moving ([Submissão](https://atcoder.jp/contests/abc454/tasks/abc454_e))
 - Codeforces(1398A): Bad Triangle ([Submissão](https://codeforces.com/problemset/problem/1398/A))
 - Codeforces(1451D): Circle Game ([Submissão](https://codeforces.com/problemset/problem/1451/D))
 - Codeforces(1466A): Bovine Dilemma ([Submissão](https://codeforces.com/problemset/problem/1466/A))
