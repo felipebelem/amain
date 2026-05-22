@@ -1,6 +1,6 @@
 # Maratona Mineira de Programação
 
-## IX Edição
+## IX Edição (2022)
 
 - Codeforces(A): Descriptografando ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/A))
 - Codeforces(B): Festa Laser ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/B))
@@ -17,7 +17,7 @@
 - Codeforces(M): Jogo do Gato ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/M))
 - Codeforces(N): Maratonando ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/103794/problem/N))
 
-## X Edição
+## X Edição (2023)
 
 - Codeforces(A): Elemento X ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/446227/problem/A))
 - Codeforces(B): Contorno ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/446227/problem/B))
@@ -34,7 +34,7 @@
 - Codeforces(M): Três, Quatro, Cinco ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/446227/problem/M))
 - Codeforces(N): Trapaça na Pastelaria ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/446227/problem/N))
 
-## XI Edição
+## XI Edição (2024)
 
 - Codeforces(A): Cringe ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/528947/problem/A))
 - Codeforces(B): QR Code 2 ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/528947/problem/B))
@@ -50,7 +50,7 @@
 - Codeforces(L): Uno ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/528947/problem/L))
 - Codeforces(M): Prova do Professor Linguiça ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/528947/problem/M))
 
-## XII Edição
+## XII Edição (2025)
 
 - Codeforces(A): Antissocial ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/105936/problem/A))
 - Codeforces(B): Bares ([Submissão](https://codeforces.com/group/YgJmumGtHD/contest/105936/problem/B))
