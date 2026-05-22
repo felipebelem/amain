@@ -1,4 +1,4 @@
-# Maratona Mineira de Programação
+# Maratona Feminina de Programação
 
 ## 1a Fase (2024)
 
